@@ -1,0 +1,9 @@
+{
+  "name": "airtable-view-to-email-csv",
+  "version": "1.0.0",
+  "description": "Google Apps Script that emails an Airtable view as a CSV attachment on a schedule",
+  "license": "MIT",
+  "private": true,
+  "scripts": { "test": "node --test test/*.test.js" },
+  "engines": { "node": ">=18" }
+}
