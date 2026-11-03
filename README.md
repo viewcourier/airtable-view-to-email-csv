@@ -100,4 +100,4 @@ Needs Node 18 or newer (`node --test`), nothing to install. The Google-side beha
 
 ## License
 
-MIT. Copyright (c) 2026 BASIT B.V.
+MIT. Copyright (c) 2026 ViewCourier
